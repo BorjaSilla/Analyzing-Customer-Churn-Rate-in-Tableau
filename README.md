@@ -1,6 +1,7 @@
 # Tableau Story: Customer Churn Rate Analysis
 
 ## Overview
+![DASHBOARD](https://i.imgur.com/Fam1qWp.png)
 
 Welcome to the Tableau Story that delves into the analysis of customer churn rate. This visualization is designed to provide insights into various factors influencing customer churn within our organization. The story is divided into four pages, each focusing on a specific aspect of the data.
 
