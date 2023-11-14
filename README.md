@@ -24,7 +24,7 @@ In the final page, we explore the impact of service plans on customer churn. Vis
 ## How to Navigate
 
 1. **Access Published Dashboard:**
-   - Navigate to the [Published Dashboard Link](https://public.tableau.com/app/profile/borja.sg/viz/CaseStudy1ChurnRateAnalysisforDatalabelbyBorjaSG/CaseStudy).
+   - Navigate to the [Published Dashboard Link](https://public.tableau.com/app/profile/borja.sg/viz/AnalyzingCustomerChurninTableau_16999494901150/CaseStudy).
    - The published dashboard allows you to interact with and explore visualizations without the need to download Tableau Desktop.
 
 2. **Explore the Story:**
